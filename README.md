@@ -27,8 +27,8 @@
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 goals: Make project and contribute to Open Source
 - ⚡ Fun fact: I love to make photos and videos
-- 🔭 I just launched my portfolio: **[https://sanajitjana.github.io/](https://sanajitjana.github.io)**
-- 💼 See my experience over the year: **[Resume](https://drive.google.com/file/d/1vIW8QutYvTxiIh-wi9mME4m4ibYGYNrf/view?usp=sharing)**
+- 🔭 I just launched my portfolio: 
+- 💼 See my experience over the year:
 
   <br />
 
