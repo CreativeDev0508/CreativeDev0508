@@ -55,11 +55,3 @@
 - Explore new Tech 💻
 - Travel & Ride 🌎
 
-
-<!-- ### My GitHub Stats: -->
-<p>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanajitjana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
