@@ -25,10 +25,7 @@
 
 - 🌱 Currently learning Java programming 😎
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 goals: Make project and contribute to Open Source
-- ⚡ Fun fact: I love to make photos and videos
-- 🔭 I just launched my portfolio: 
-- 💼 See my experience over the year:
+- 🥅 2023 goals: Make project and contribute to Open Source
 
   <br />
 
