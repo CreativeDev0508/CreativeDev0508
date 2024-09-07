@@ -3,8 +3,8 @@
 # Hi, Myself <a href="https://github.com/CreativeDev0508" target="_blank">CreativeDev</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-Stack Web Developer, Designer and Life-Long Learner!
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sanajitjana.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/sanajitjana?label=Github%20Connection&style=flat)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=CreativeDev0508.visitor-badge.issue.1&title=Github%20Visitors)
+![Github Followers](https://img.shields.io/github/followers/CreativeDev0508?label=Github%20Connection&style=flat)
 
 <br/>
 
