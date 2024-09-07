@@ -25,13 +25,13 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=react,next,solidity,rust,java,spring,hibernate,php,mysql,js,html,css,go)]()
+[![](https://skillicons.dev/icons?i=solidity,rust,react,next,nuxt,laravel,php,python,django,flask,dotnet,java,spring,hibernate,mysql,mongodb,aws,azure,js,typescript,html,css,go)]()
 
 <br/>
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,powershell)]()
+[![](https://skillicons.dev/icons?i=git,github,docker,netlify,heroku,vscode,powershell)]()
 
 
 <br />
