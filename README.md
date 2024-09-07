@@ -10,7 +10,8 @@
 
 ### What I'm focusing on 👨‍💻
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- coding boy -->
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
 
 - 🌱 Currently learning Move 😎
 - 👯 I’m looking to collaborate with other developer
@@ -19,9 +20,6 @@
   <br />
 
 ### Familiar Tech Stack:
-
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
 
 <!-- language -->
 
