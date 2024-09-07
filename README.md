@@ -25,7 +25,7 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css,go)]()
+[![](https://skillicons.dev/icons?i=react,next,solidity,rust,java,spring,hibernate,php,mysql,js,html,css,go)]()
 
 <br/>
 
