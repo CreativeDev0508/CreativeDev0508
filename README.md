@@ -12,7 +12,7 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Currently learning Java programming 😎
+- 🌱 Currently learning Move 😎
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2024 goals: Make project and contribute to Open Source
 
