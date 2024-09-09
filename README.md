@@ -29,7 +29,7 @@
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,docker,netlify,heroku,vscode,powershell)]()
+[![](https://skillicons.dev/icons?i=git,github,docker,netlify,heroku,vscode,powershell,jira,notion)]()
 
 
 <br />
