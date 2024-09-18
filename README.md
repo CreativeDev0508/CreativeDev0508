@@ -14,7 +14,7 @@
 <img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
 
 - 🌱 Currently learning Move 😎
-- 👯 I’m looking to collaborate with other developer
+- 👯 I’m looking forward to learning and collaborating with all of you!
 - 🥅 2024 goals: Make project and contribute to Open Source
 
   <br />
