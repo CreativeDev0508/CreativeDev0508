@@ -15,7 +15,7 @@
 
 - 🌱 Currently learning Move 😎
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2024 goals: Make project and contribute to Open Source
+- 🥅 2025 goals: Make project and contribute to Open Source
 
   <br />
 
